@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MOB Introducao Android Aula4 App1</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtMussarela">Mussarela</string>
+    <string name="txtCalabresa">Calabresa</string>
+    <string name="txtPortuguesa">Portuguesa</string>
+    <string name="txtBordaRecheada">Borda Recheada</string>
+    <string name="txtCalcular">Calcular</string>
+</resources>
